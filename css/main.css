@@ -1,0 +1,44 @@
+* {
+    background-color:antiquewhite;
+}
+.wrapper {
+    text-align: center;
+}
+
+input, textarea {
+    width:50%;
+    border-radius:5px;
+    background-color:#fff;
+}
+h1 {
+    font-family: monospace;
+    font-weight:bold;
+}
+.button {
+    background-color:#2d2d;
+    color:#000;
+    border-radius:5px;
+    
+}
+button:hover {
+   cursor:pointer;
+    width:52px;
+    height:32px;
+}
+#secondDiv {
+    text-align: center;
+    width:380px;
+    border:2px solid #000;
+    border-radius:5px;
+    display:none;
+    position: relative;
+    left:190px;
+    background-color:#f2f2f2;
+}
+#newInput {
+      background-color:#f2f2f2;
+} 
+#newComm {
+        background-color:#f2f2f2;
+
+}
